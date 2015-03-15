@@ -53,3 +53,6 @@ And yes off course it works.
 I reverted the commit and the sentence 'revert this sentence' is gone from this file. 
 now git add, git commit, git push
 
+
+
+lets just correct this sentence;  
