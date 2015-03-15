@@ -12,5 +12,9 @@ AND how = start
 AND 1 = 2
 AND how = start
 AND 1 = 2
+<<<<<<< HEAD
 AND 1 = 4
 
+=======
+AND 1 = 3
+>>>>>>> 40de44967892da1aed9d3dc71cdb8d9f04594a0c
