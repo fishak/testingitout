@@ -30,3 +30,6 @@ so both text are added to this file,...
 let's save and git pull what happens?
 
 I have save the other file and I am going to push this one
+
+here I am writing a sentence 1,.... 
+I am going to git add, git commit, git push this sentence
