@@ -26,3 +26,5 @@ Well just now I added some text to the other acode.sql file and pushed it.
 I have not yet git pulled. Just saved the file in the folder. 
 
 so both text are added to this file,... 
+
+let's save and git pull what happens?
