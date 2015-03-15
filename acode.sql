@@ -7,3 +7,4 @@ AND how = ok
 AND followup = 1
 AND followup_text = 'last_code'
 AND how = start
+AND 1 = 1
