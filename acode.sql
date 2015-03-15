@@ -50,5 +50,3 @@ so now git add git commit git push,...
 
 And yes off course it works. 
 
-
-so let's reset this line after commit before push
