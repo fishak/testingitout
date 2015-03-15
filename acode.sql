@@ -55,4 +55,5 @@ now git add, git commit, git push
 
 
 
-lets just correct this sentence;  
+lets just correct this sentence; let's should be with a capital letter. 
+Lets adjust above sentence. 
