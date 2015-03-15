@@ -30,3 +30,8 @@ so both text are added to this file,...
 let's save and git pull what happens?
 
 I have save the other file and I am going to push this one
+
+here I am writing sentence 2 at the same time sentence 1 is written on the other file
+sentence 1 has been pushed.
+so now I am going to push this one,... 
+
