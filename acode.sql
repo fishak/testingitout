@@ -58,9 +58,6 @@ now git add, git commit, git push
 
 lets just correct this sentence; let's should be with a capital letter. 
 Lets adjust above sentence. 
-
-lets just correct this sentence;  
 I do not want to correct that sentence, it is good as it is. 
-
 Dude(tte), all sentences need to start with a capital letter;)
-
+ok,., we'll do that,... 
