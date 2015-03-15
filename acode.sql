@@ -46,3 +46,7 @@ when I wanted to push sentence 2 there was a conflict.
 so git pull
 the file is amended and shows where the conflict is,.. 
 so now git add git commit git push,... 
+
+
+And yes off course it works. 
+
