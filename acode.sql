@@ -28,3 +28,5 @@ I have not yet git pulled. Just saved the file in the folder.
 so both text are added to this file,... 
 
 let's save and git pull what happens?
+
+I have save the other file and I am going to push this one
