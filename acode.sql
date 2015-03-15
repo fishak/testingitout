@@ -6,3 +6,4 @@ AND change = second_change
 AND how = ok
 AND followup = 1
 AND followup_text = 'last_code'
+AND how = start
