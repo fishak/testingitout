@@ -31,7 +31,18 @@ let's save and git pull what happens?
 
 I have save the other file and I am going to push this one
 
+<<< HEAD
 here I am writing sentence 2 at the same time sentence 1 is written on the other file
 sentence 1 has been pushed.
 so now I am going to push this one,... 
 
+====
+here I am writing a sentence 1,.... 
+I am going to git add, git commit, git push this sentence
+>>>> 
+
+so sentence 1 was pushed,... 
+when I wanted to push sentence 2 there was a conflict. 
+so git pull
+the file is amended and shows where the conflict is,.. 
+so now git add git commit git push,... 
